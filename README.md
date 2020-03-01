@@ -87,5 +87,10 @@ $ git remote add origin https://github.com/ROSY18/PREWORK_1.git
 alberto@Alberto MINGW64 ~/desktop/ROSALIA (master)
 $ git push -u origin master
 error: src refspec master does not match any
-error: failed to push some refs to 'https://github.com/ROSY18/PREWORK_1.git'
-$
+error: failed to push some refs to 'https://github.com/ROSY18/PREWORK_1.git
+
+1. se descarga set de datos en carpeta zip de Kaggle sobre rnking de universidades.
+2. definir estructura de carpetas: se realiza con los comandos utilizados de la linea 1 a la 19
+3. Descargar el conjunto de datos: se realiza de la linea 27 a la 40
+4. Crear copia de respaldo: se realiza de la linea  54 a 56
+5. No se pudo realizar el script
